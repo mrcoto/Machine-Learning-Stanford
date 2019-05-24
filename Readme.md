@@ -21,3 +21,9 @@ La semana 3 contiene ejercicios de clasificación (regresión logística) y de r
 - Problemas de Sobreajuste (Overfitting) o de bajo ajuste (Underfitting)
 - Regularización (Para regresión líneal y clasificación)
 
+## Semana 4
+
+La semana 4 contiene ejercicios de clasificación multi clase (regresión logística) para identificar dígitos (0, 1, .., 9)
+de una imagen.
+- Clasificación multi clase (one-vs-all)
+- Forward Propagation (FP) para Precedir dígitos de imagen de una Red Neuronal ya entrenada
