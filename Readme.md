@@ -27,3 +27,11 @@ La semana 4 contiene ejercicios de clasificación multi clase (regresión logís
 de una imagen.
 - Clasificación multi clase (one-vs-all)
 - Forward Propagation (FP) para Precedir dígitos de imagen de una Red Neuronal ya entrenada
+
+## Semana 5
+
+La semana 5 contiene ejercicios de Feedforward propagation (FP) y Backpropagation (BP), ambos con términos de regularización.
+Se utilizaron para encontrar los peros que identifican los dígitos del 0 al 9 (de la Semana 4).
+- Feedforward propagation (FP) + Término de regularización
+- Backpropagation (Obtención de Gradiente)
+- Gradient Checking (Ya estaba implementado, verifica que BP funciona correctamente)
