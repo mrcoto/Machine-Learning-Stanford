@@ -35,3 +35,9 @@ Se utilizaron para encontrar los peros que identifican los dígitos del 0 al 9 (
 - Feedforward propagation (FP) + Término de regularización
 - Backpropagation (Obtención de Gradiente)
 - Gradient Checking (Ya estaba implementado, verifica que BP funciona correctamente)
+
+## Semana 6
+
+La semana 6 contiene ejercicios de Bias vs Varianza aplicado a una regresión lineal regularizada.
+- Bias vs Varianza 
+- Curva de aprendizaje
