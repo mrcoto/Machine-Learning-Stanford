@@ -41,3 +41,8 @@ Se utilizaron para encontrar los peros que identifican los dígitos del 0 al 9 (
 La semana 6 contiene ejercicios de Bias vs Varianza aplicado a una regresión lineal regularizada.
 - Bias vs Varianza 
 - Curva de aprendizaje
+
+## Semana 7
+
+La semana 7 contiene ejercicios de Super Vector Machine (SVM) para clasificar un email como spam/no spam
+- SVM con Kernel Gaussiano
