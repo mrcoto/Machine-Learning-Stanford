@@ -46,3 +46,8 @@ La semana 6 contiene ejercicios de Bias vs Varianza aplicado a una regresión li
 
 La semana 7 contiene ejercicios de Super Vector Machine (SVM) para clasificar un email como spam/no spam
 - SVM con Kernel Gaussiano
+
+## Semana 8
+La semana 8 contiene ejercicios de Clustering y PCA
+- Clustering para comprimir imagen
+- PCA para comprimir imagen
