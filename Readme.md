@@ -51,3 +51,8 @@ La semana 7 contiene ejercicios de Super Vector Machine (SVM) para clasificar un
 La semana 8 contiene ejercicios de Clustering y PCA
 - Clustering para comprimir imagen
 - PCA para comprimir imagen
+
+## Semana 9
+La semana 9 contiene ejercicios de Detección de Anomalías y Sistemas de Recomendacion
+- Detección de Anomalías para detectar anomalías en un conjunto de servidores
+- Sistema de Recomendación para calificar peliculas no calificadas y recomendar a un usuario
